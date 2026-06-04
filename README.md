@@ -1,122 +1,142 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey,%20I'm%20Cynthia!%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20|%20Student%20|%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cynthia%20Adeline%20Umutoniwase&fontSize=38&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20|%20Python%20|%20Django%20|%20Java%20|%20Spring%20Boot&descAlignY=58&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Backend+Developer+in+the+making+%F0%9F%9A%80;Java+%7C+Python+%7C+Spring+Boot+%7C+Django;Currently+exploring+Mobile+Dev+%F0%9F%93%B1;Always+learning%2C+always+building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<h3>Software Engineering Student | Backend Developer</h3>
 
-<br/>
+<p>
+Building scalable software solutions through backend development, software engineering, and modern web technologies.
+</p>
 
-<!-- Profile Views + GitHub Followers -->
-![Profile Views](https://komarev.com/ghpvc/?username=CynthiaAdeline&color=7c3aed&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/CynthiaAdeline?label=Follow&style=flat-square&color=7c3aed)](https://github.com/CynthiaAdeline)
+<img src="https://komarev.com/ghpvc/?username=cynthiaadeline&label=Profile%20Views&color=7c3aed&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# About Me
 
-```kotlin
-data class Developer(
-    val name: String       = "Cynthia Adeline",
-    val role: String       = "Backend Developer",
-    val status: String     = "Student & Lifelong Learner",
-    val location: String   = "🌍 Earth",
-    val currentlyLearning  = listOf("Mobile Development", "System Design"),
-    val lookingFor         = listOf("Open Source Contributions", "Teammates", "Internships"),
-    val funFact: String    = "I debug with console.log and I'm not ashamed 😄"
-)
-```
+I am a final-year Software Engineering student with hands-on experience building web and mobile applications using Python, Django, Java, Spring Boot, and React.
+
+Through my internship at SOLVIT AFRICA and personal projects, I have developed strong skills in backend development, RESTful APIs, database design, software architecture, and problem-solving. I enjoy transforming ideas into practical solutions that address real-world challenges.
+
+I am particularly interested in backend engineering, healthcare technology, scalable systems, and software solutions that create meaningful impact.
 
 ---
 
-## 🚀 What I'm Up To
+# Experience
 
-- 🔭 &nbsp;Working on **backend systems & APIs**
-- 🌱 &nbsp;Currently leveling up in **Mobile Development & Web Development**
-- 👯 &nbsp;Looking to collaborate on **open-source projects**
-- 🤔 &nbsp;Exploring **System Design & Architecture**
-- 💬 &nbsp;Ask me about **Python, Spring Boot, Django, or REST APIs**
-- 📫 &nbsp;Reach me via **GitHub**
-- ⚡ &nbsp;Fun fact: I think **backend magic** is what makes frontends look smart 🧙‍♀️
+## Django Developer Intern | SOLVIT AFRICA
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 👩‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,js,ts" />
-</p>
-
-### 🧰 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=django,spring,react,nextjs" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-</p>
-
-### ⚙️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
-
-### 📱 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin" />
-</p>
+* Developed features for the HotPot Restaurant platform using Python and Django.
+* Built backend functionalities including menu management, order processing, and database-driven features using Django ORM.
+* Designed and maintained RESTful APIs to support application functionality and integration.
+* Collaborated with team members using Git workflows, code reviews, and debugging practices.
+* Optimized application performance and resolved software issues to improve user experience.
+* Strengthened professional skills in public speaking, teamwork, communication, problem-solving, and time management.
 
 ---
 
-## 📊 GitHub Stats
+# Featured Projects
+
+## Patient Queue Management System
+
+**Spring Boot | React | Java | REST APIs**
+
+Developed a healthcare queue management system using Spring Boot and React, with King Faisal Hospital Rwanda as the case study. Designed a scalable RESTful backend, implemented live queue tracking, and streamlined patient workflow management through healthcare process automation.
+
+## HotPot Restaurant – Online Ordering & Delivery Platform
+
+**Django | Python | JavaScript | Django ORM**
+
+Built a full-stack restaurant ordering and delivery platform for a real restaurant in Rwanda. Implemented menu browsing, cart management, order processing, delivery tracking, and administrative management features.
+
+## Medi Hafi – Nearby Hospital Finder
+
+**Java | Android Studio | GPS APIs**
+
+Developed an Android application that helps users locate nearby hospitals using GPS and location services. Implemented healthcare facility discovery, filtering capabilities, and an intuitive mobile user experience.
+
+## Django Web Applications
+
+**Python | Django | REST APIs**
+
+Developed and maintained multiple web applications during internship projects, focusing on backend development, API integration, authentication systems, and database management.
+
+---
+
+# Technical Skills
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cs" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,spring" />
+</p>
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,androidstudio" />
+</p>
+
+---
+
+# Certifications
+
+* Advanced Network Operations 2.0 — Internet Society
+* Network Operations 1.0 — Internet Society
+* Networking Basics — Cisco
+* Computer Hardware Basics — Cisco
+
+---
+
+# GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CynthiaAdeline&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CynthiaAdeline&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cynthiaadeline&show_icons=true&theme=midnight-purple&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cynthiaadeline&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CynthiaAdeline&theme=midnight-purple&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=cynthiaadeline&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# Connect With Me
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CynthiaAdeline&theme=onestar&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-> 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br/>
-
-I'm open to **internships**, **open-source collab**, and **project teams**. <br/>
-Drop a ⭐ on something you like, or just say hi — I don't bite! 🐾
-
-</div>
+<p>
+<a href="https://www.linkedin.com/in/cynthia-adeline-umutoniwase-86a380243/">LinkedIn</a> •
+<a href="https://github.com/cynthiaadeline">GitHub</a>
+</p>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+
 </div>
